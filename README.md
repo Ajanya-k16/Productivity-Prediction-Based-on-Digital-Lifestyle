@@ -1,7 +1,5 @@
 # 🏆 Productivity Prediction Based on Digital Lifestyle
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ## Project Overview
 **Productivity Prediction Based on Digital Lifestyle** is a machine learning project that predicts an individual's productivity based on their digital habits. By analyzing app usage, screen time, and other digital activities, this project provides insights into productivity trends and offers suggestions to improve time management and efficiency.
 
